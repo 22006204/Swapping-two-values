@@ -33,7 +33,9 @@ print("Swapped values are:",temp,n2)
 
 ## OUTPUT:
 
-![OUTPUT](solution1.png)
+
+![solution1](https://user-images.githubusercontent.com/118787261/208915163-6790dbd5-5884-4980-8b7b-1140a56ec454.png)
+
 
 
 ## RESULT:
